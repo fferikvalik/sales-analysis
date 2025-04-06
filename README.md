@@ -87,6 +87,6 @@ GUI Features:
 - **Report Generation**: Create Excel or PDF reports.
 - **GUI Upgrade**: Switch to `PyQt` or `customtkinter` for a modern interface.
 - **Docker Support**: Containerization for easier deployment.
-```
+
 
 
