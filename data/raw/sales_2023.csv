@@ -1,0 +1,3 @@
+order_id,date,product,quantity,price,region
+1001,2023-01-05,Laptop,2,999.99,Europe
+1002,2023-01-06,Phone,5,699.99,Asia
